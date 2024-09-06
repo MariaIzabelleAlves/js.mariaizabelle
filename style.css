@@ -1,0 +1,9 @@
+tml, body {
+    margin: 30px;
+    padding: 0;
+    background-color: rgb(128,29,182);
+  }
+  canvas {
+    display: block;
+  }
+  
